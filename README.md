@@ -83,8 +83,7 @@ plt.show()
 
 <H3>OUTPUT:</H3>
 
-<img width="1249" height="558" alt="image" src="https://github.com/user-attachments/assets/ed977363-5314-4d47-8067-91400b2c426d" />
-
+<img width="1246" height="551" alt="image" src="https://github.com/user-attachments/assets/efb76a74-bca2-4921-a1f3-f7cbe62c7010" />
 
 <H3>Result:</H3>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
